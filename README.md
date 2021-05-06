@@ -2,4 +2,4 @@
 
 A dice rolling app made to practice using flutter/dart.
 
-![ScreenShot](images/screenshot.png
+![ScreenShot](images/screenshot.png)
